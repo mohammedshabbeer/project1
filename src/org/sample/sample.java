@@ -4,8 +4,10 @@ public class sample {
 
 	private void mainmethod() {
 		
-		System.out.println("kareem");
-		System.out.println("mohammed");
+		System.out.println("shabbeer");
 
+		System.out.println("shabbeer");
+		
+		System.out.println("shabbeer"); 
 	}
 }
