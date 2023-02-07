@@ -8,6 +8,6 @@ public class sample {
 
 		System.out.println("shabbeer");
 		
-		System.out.println("shabbeer");
+		System.out.println("shabbeer"); 
 	}
 }
